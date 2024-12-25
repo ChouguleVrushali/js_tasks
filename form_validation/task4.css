@@ -1,0 +1,27 @@
+
+#input1,#input2{
+    height: 20px;
+    width: 350px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 2px;
+}
+
+#input3{
+    height: 25px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: rgb(224, 210, 210);
+    padding: 2px;
+    margin: 5px;
+}
+h1{
+    text-align: center;
+}
+.div{
+    border: 1px solid black;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    margin: auto;
+}

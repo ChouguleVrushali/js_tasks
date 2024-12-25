@@ -1,0 +1,22 @@
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 2px;
+}
+.btn1{
+    background-color: blue;
+}
+.btn2{
+    background-color: yellow;
+}
+.btn3{
+    background-color: pink;
+}
+.btn4{
+    background-color: orange;
+}
+.btn5{
+    background-color: white;
+}
